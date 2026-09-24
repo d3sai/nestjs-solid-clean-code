@@ -1,5 +1,5 @@
 ---
-name: nestjs-solid-clean-code
+name: nestjs-solid-clean-code-uk
 description: The right way to write NestJS & TypeScript clean code — SOLID principles (SRP, OCP, LSP, ISP, DIP) plus DRY/KISS/YAGNI, layered architecture, dependency injection, DTOs & validation, testing, security, logging, caching, and production-readiness practices. Use this skill whenever writing, reviewing, or refactoring any NestJS service, controller, module, repository, guard, or architecture — even if the user doesn't say "SOLID" or "clean code" explicitly. Trigger on requests like "review this service", "how should I structure this module", "is this good NestJS code", "why is this hard to test", or any NestJS/TypeScript architecture, dependency-injection, or code-quality question.
 ---
 
